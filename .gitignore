@@ -1,0 +1,30 @@
+### Flutter ###
+*.iml
+.idea
+.dart_tool/
+.flutter-plugins
+.flutter-plugin-dependencies
+android/local.properties
+**/ios/Flutter/AppFrameworkInfo.plist
+build/
+.DS_Store
+
+### HIVE ###
+*.hive
+
+### Logs and temp files ###
+*.log
+tmp*
+temp/
+
+### OS generated files ###
+.DS_Store
+Thumbs.db
+
+### Packages ###
+*.packages
+.pub-cache
+.dart_tool
+
+### VS Code ###
+.vscode/
